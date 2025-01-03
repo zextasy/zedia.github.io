@@ -1,6 +1,6 @@
   <!-- contact section -->
 
-  <section class="contact_section layout_padding">
+  <section class="contact_section layout_padding" id="contact">
     <div class="container">
 
       <div class="heading_container">

@@ -1,6 +1,6 @@
   <!-- do section -->
 
-  <section class="do_section layout_padding">
+  <section class="do_section layout_padding" id="what-we-do">
     <div class="container">
       <div class="heading_container">
         <h2>

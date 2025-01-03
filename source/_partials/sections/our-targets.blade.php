@@ -1,5 +1,5 @@
   <!-- target section -->
-  <section class="target_section layout_padding2">
+  <section class="target_section layout_padding2" id="targets">
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-6">

@@ -1,5 +1,5 @@
   <!-- client section -->
-  <section class="client_section">
+  <section class="client_section" id="clients">
     <div class="container">
       <div class="heading_container">
         <h2>

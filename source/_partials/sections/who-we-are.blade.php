@@ -1,6 +1,6 @@
   <!-- who section -->
 
-  <section class="who_section ">
+  <section class="who_section" id="portfolio">
     <div class="container">
       <div class="row">
         <div class="col-md-5">

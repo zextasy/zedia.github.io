@@ -1,5 +1,5 @@
   <!-- work section -->
-  <section class="work_section layout_padding">
+  <section class="work_section layout_padding" id="about">
     <div class="container">
       <div class="heading_container">
         <h2>
