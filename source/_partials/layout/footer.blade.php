@@ -1,7 +1,7 @@
 <div class="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full md:px-24 lg:px-8 bg-gray-200">
   <div class="grid gap-10 row-gap-6 mb-8 sm:grid-cols-2 lg:grid-cols-4">
     <div class="sm:col-span-2">
-      <a href="/" aria-label="Go home" title="Company" class=" text-xl bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-300  to-red-600 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
+      <a href="/" aria-label="Go home" title="Company" class=" text-xl bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-400  via-red-600 to-slate-800 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
       <div class="mt-6 lg:max-w-sm">
         <p class="text-sm text-gray-800">
             Let Zedia Kaizen provide a solution for you today.

@@ -2,7 +2,7 @@
     <nav id="navbar" class="fixed w-full bg-white/80 backdrop-blur-md shadow-md transition-transform duration-300 transform-gpu z-50">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <!-- Logo -->
-            <a href="/" class="text-2xl font-bold bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-300  to-red-600 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
+            <a href="/" class="text-2xl font-bold bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-400  via-red-600 to-slate-800 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
 
             <!-- Navigation Links -->
             <ul class="hidden md:flex space-x-6 text-gray-700 font-medium">

@@ -2,8 +2,8 @@
         <x-slot:title>
         About Us
     </x-slot>
-<header class="bg-gradient-to-br from-[#f59e0b] via-[#b91c1c] to-[#f59e0b] text-white text-center py-12">
-        <h1 class="text-4xl font-bold mt-16">About Us</h1>
+<header class="bg-gradient-to-b from-amber-400 via-red-600 to-slate-800 text-white text-center py-12">
+        <h1 class="text-4xl font-bold my-auto">About Us</h1>
       </header>
 
       <section class="text-center py-12 px-4">
@@ -23,7 +23,7 @@
         </div>
       </section>
 
-      <section class="bg-gradient-to-br from-[#f59e0b] via-[#b91c1c] to-[#f59e0b] text-white py-12 px-4">
+      <section class="bg-gradient-to-b from-slate-800 via-red-600 to-amber-400 text-white py-12 px-4">
         <h2 class="text-2xl font-bold text-center">Our Vision</h2>
         <p class="mt-4 text-center max-w-2xl mx-auto">
           Technology Solutions anytime, anywhere. We aim to provide technology solutions to everyone.
