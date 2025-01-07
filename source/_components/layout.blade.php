@@ -8,7 +8,9 @@
     <body class="bg-gray-100">
         @include('_partials.layout.navbar')
         <main class="pt-20 px-4">
-            {{ $slot }}
+            <div class="mx-auto max-w-7xl mb-3 rounded drop-shadow">
+                {{ $slot }}
+            </div>
         </main>
         <footer>
         @include('_partials.layout.footer')

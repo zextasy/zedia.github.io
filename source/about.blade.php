@@ -2,7 +2,7 @@
         <x-slot:title>
         About Us
     </x-slot>
-<header class="bg-gradient-to-br from-[#f59e0b] via-[#ea580c] to-[#b91c1c] text-white text-center py-12">
+<header class="bg-gradient-to-br from-[#f59e0b] via-[#b91c1c] to-[#f59e0b] text-white text-center py-12">
         <h1 class="text-4xl font-bold mt-16">About Us</h1>
       </header>
 
@@ -23,7 +23,7 @@
         </div>
       </section>
 
-      <section class="bg-gradient-to-br from-[#f59e0b] via-[#ea580c] to-[#b91c1c] text-white py-12 px-4">
+      <section class="bg-gradient-to-br from-[#f59e0b] via-[#b91c1c] to-[#f59e0b] text-white py-12 px-4">
         <h2 class="text-2xl font-bold text-center">Our Vision</h2>
         <p class="mt-4 text-center max-w-2xl mx-auto">
           Technology Solutions anytime, anywhere. We aim to provide technology solutions to everyone.
@@ -33,16 +33,16 @@
       <section class="text-center py-12 px-4">
         <h2 class="text-2xl font-bold">Our Specialties</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 mt-8">
-          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#ea580c] to-[#f59e0b]">
             <h3 class="text-xl font-bold">Web based Software</h3>
           </div>
-          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#ea580c] to-[#f59e0b]">
             <h3 class="text-xl font-bold">Mobile Apps</h3>
           </div>
-          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#ea580c] to-[#f59e0b]">
             <h3 class="text-xl font-bold">Training</h3>
           </div>
-          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#ea580c] to-[#f59e0b]">
             <h3 class="text-xl font-bold">Hardware</h3>
           </div>
         </div>
