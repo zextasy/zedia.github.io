@@ -2,14 +2,14 @@
     <nav id="navbar" class="fixed w-full bg-white/80 backdrop-blur-md shadow-md transition-transform duration-300 transform-gpu z-50">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <!-- Logo -->
-            <a href="#" class="text-2xl font-bold text-gray-900 hover:text-blue-600 transition-colors">ZEIDA KAIZEN</a>
+            <a href="/" class="text-2xl font-bold bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-300  to-red-600 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
 
             <!-- Navigation Links -->
             <ul class="hidden md:flex space-x-6 text-gray-700 font-medium">
-                <li><a href="#" class="hover:text-blue-500 transition-colors">Home</a></li>
-                <li><a href="#" class="hover:text-blue-500 transition-colors">About</a></li>
-                <li><a href="#" class="hover:text-blue-500 transition-colors">Services</a></li>
-                <li><a href="#" class="hover:text-blue-500 transition-colors">Contact</a></li>
+                <li><a href="/" class="hover:text-amber-500 transition-colors">Home</a></li>
+                <li><a href="/about" class="hover:text-amber-500 transition-colors">About</a></li>
+                <li><a href="/services" class="hover:text-amber-500 transition-colors">Services</a></li>
+                <li><a href="/contact" class="hover:text-amber-500 transition-colors">Contact</a></li>
             </ul>
 
             <!-- Mobile Menu Button -->
@@ -23,10 +23,10 @@
         <!-- Mobile Menu -->
         <div id="mobile-menu" class="hidden bg-white md:hidden shadow-md">
             <ul class="space-y-4 p-4 text-gray-700 font-medium">
-                <li><a href="#" class="block hover:text-blue-500 transition-colors">Home</a></li>
-                <li><a href="#" class="block hover:text-blue-500 transition-colors">About</a></li>
-                <li><a href="#" class="block hover:text-blue-500 transition-colors">Services</a></li>
-                <li><a href="#" class="block hover:text-blue-500 transition-colors">Contact</a></li>
+                <li><a href="/" class="block hover:text-amber-500 transition-colors">Home</a></li>
+                <li><a href="/about" class="block hover:text-amber-500 transition-colors">About</a></li>
+                <li><a href="/services" class="block hover:text-amber-500 transition-colors">Services</a></li>
+                <li><a href="/contact" class="block hover:text-amber-500 transition-colors">Contact</a></li>
             </ul>
         </div>
     </nav>

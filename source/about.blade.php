@@ -1,9 +1,51 @@
-@extends('_layouts.main')
+<x-layout>
+        <x-slot:title>
+        About Us
+    </x-slot>
+<header class="bg-gradient-to-br from-[#f59e0b] via-[#ea580c] to-[#b91c1c] text-white text-center py-12">
+        <h1 class="text-4xl font-bold mt-16">About Us</h1>
+      </header>
 
-@section('title', ' - About')
+      <section class="text-center py-12 px-4">
+        <h2 class="text-2xl font-bold">Mission And Values</h2>
+        <p class="mt-4 text-gray-700 max-w-2xl mx-auto">
+          Our mission is to provide exceptional technology services with a focus on availability, reliability, and support.
+        </p>
+        <div class="flex justify-center space-x-8 mt-8 animate-fadeIn">
+          <div class="transition transform hover:scale-110">
+            <h3 class="text-xl font-bold" >25+</h3>
+            <p class="text-gray-700">Specialists</p>
+          </div>
+          <div class="transition transform hover:scale-110">
+            <h3 class="text-xl font-bold" >5+</h3>
+            <p class="text-gray-700">Years of Experience</p>
+          </div>
+        </div>
+      </section>
 
-@section('content')
+      <section class="bg-gradient-to-br from-[#f59e0b] via-[#ea580c] to-[#b91c1c] text-white py-12 px-4">
+        <h2 class="text-2xl font-bold text-center">Our Vision</h2>
+        <p class="mt-4 text-center max-w-2xl mx-auto">
+          Technology Solutions anytime, anywhere. We aim to provide technology solutions to everyone.
+        </p>
+      </section>
 
-@include('_partials.sections.who-we-are')
+      <section class="text-center py-12 px-4">
+        <h2 class="text-2xl font-bold">Our Specialties</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 mt-8">
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+            <h3 class="text-xl font-bold">Web based Software</h3>
+          </div>
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+            <h3 class="text-xl font-bold">Mobile Apps</h3>
+          </div>
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+            <h3 class="text-xl font-bold">Training</h3>
+          </div>
+          <div class="p-4 shadow-lg rounded-lg bg-gradient-to-b from-[#f59e0b] via-[#f59e0b] to-[#ea580c]">
+            <h3 class="text-xl font-bold">Hardware</h3>
+          </div>
+        </div>
+      </section>
 
-@endsection
+</x-layout>

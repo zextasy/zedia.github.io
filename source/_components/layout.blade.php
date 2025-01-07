@@ -13,6 +13,7 @@
         <footer>
         @include('_partials.layout.footer')
         </footer>
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
         <script>
         let prevScrollPos = window.pageYOffset;
         const navbar = document.getElementById("navbar");
