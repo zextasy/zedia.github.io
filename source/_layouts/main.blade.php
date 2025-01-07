@@ -27,8 +27,7 @@
   <link href="assets/css/style.css" rel="stylesheet" />
   <!-- responsive style -->
   <link href="assets/css/responsive.css" rel="stylesheet" />
-  <!-- jigsaw -->
-  <!-- <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}"> -->
+
 </head>
 
 <body>

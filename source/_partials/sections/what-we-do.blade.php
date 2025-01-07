@@ -7,7 +7,7 @@
           What we do
         </h2>
         <p>
-          We provide software solutions for everyone...
+          We provide technology solutions for everyone...
         </p>
       </div>
       <div class="do_container">
