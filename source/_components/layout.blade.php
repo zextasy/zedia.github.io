@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
         <title>{{ $title ?? 'Zedia Kaizen' }}</title>
     </head>
-    <body class="bg-gray-100">
+    <body class="bg-gray-900 text-gray-100">
         @include('_partials.layout.navbar')
         <main class="pt-20 px-4">
             <div class="mx-auto max-w-7xl mb-3 rounded drop-shadow">
