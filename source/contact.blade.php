@@ -53,12 +53,14 @@
                         </div>
                     </div>
                     <div class="ml-4">
-                        <dt class="text-lg leading-6 font-medium text-gray-100">
-                            Phone number
-                        </dt>
-                        <dd class="mt-2 text-base text-gray-500">
-                            +234 9099564786
-                        </dd>
+                        <!-- <a href="tel:+2349099564786"> -->
+                            <dt class="text-lg leading-6 font-medium text-gray-100">
+                                Phone number
+                            </dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                +234 9099564786
+                            </dd>
+                        <!-- </a> -->
                     </div>
                 </div>
 
@@ -75,12 +77,14 @@
                         </div>
                     </div>
                     <div class="ml-4">
-                        <dt class="text-lg leading-6 font-medium text-gray-100">
-                            Email
-                        </dt>
-                        <dd class="mt-2 text-base text-gray-500">
-                        zedia@zedia.com.ng
-                        </dd>
+                        <a href="mailto:zedia@zedia.com.ng">
+                            <dt class="text-lg leading-6 font-medium text-gray-100">
+                                Email
+                            </dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                zedia@zedia.com.ng
+                            </dd>
+                        </a>
                     </div>
                 </div>
 
