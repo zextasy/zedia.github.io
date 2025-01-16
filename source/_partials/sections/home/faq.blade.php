@@ -7,7 +7,7 @@
         </div>
         <div class="max-w-3xl mx-auto mt-8 space-y-4 md:mt-16">
             <div
-                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg cursor-pointer hover:bg-gray-500">
+                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg shadow-gray-700 cursor-pointer hover:bg-gray-500">
                 <button type="button" id="question1" data-state="closed" class="flex items-center justify-between w-full px-4 py-5 sm:p-6">
                     <span class="flex text-lg font-semibold text-white">What services do you offer?</span>
                     <svg id="arrow1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div
-                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg cursor-pointer hover:bg-gray-500">
+                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg shadow-gray-700 cursor-pointer hover:bg-gray-500">
                 <button type="button" id="question2" data-state="closed" class="flex items-center justify-between w-full px-4 py-5 sm:p-6">
                     <span class="flex text-lg font-semibold text-white">How can I get support?</span>
                     <svg id="arrow2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
@@ -41,7 +41,7 @@
                 </div>
             </div>
             <div
-                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg cursor-pointer hover:bg-gray-500">
+                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg shadow-gray-700 cursor-pointer hover:bg-gray-500">
                 <button type="button" id="question3" data-state="closed" class="flex items-center justify-between w-full px-4 py-5 sm:p-6">
                     <span class="flex text-lg font-semibold text-white">Do you offer training?</span>
                     <svg id="arrow3" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
@@ -58,7 +58,7 @@
                 </div>
             </div>
             <div
-                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg cursor-pointer hover:bg-gray-500">
+                class="transition-all duration-200 bg-black border border-gray-800 shadow-lg shadow-gray-700 cursor-pointer hover:bg-gray-500">
                 <button type="button" id="question4" data-state="closed" class="flex items-center justify-between w-full px-4 py-5 sm:p-6">
                     <span class="flex text-lg font-semibold text-white">What is bespoke software?</span>
                     <svg id="arrow4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"

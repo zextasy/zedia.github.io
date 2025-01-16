@@ -1,8 +1,10 @@
     <!-- Navbar -->
-    <nav id="navbar" class="fixed w-full bg-black/80 backdrop-blur-md shadow-md transition-transform duration-300 transform-gpu z-50">
+    <nav id="navbar" class="fixed w-full bg-black/50 backdrop-blur-md shadow-md shadow-gray-700 transition-transform duration-300 transform-gpu z-50">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <!-- Logo -->
-            <a href="/" class="text-2xl font-bold bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-400  via-red-600 to-slate-800 bg-clip-text text-transparent">ZEIDA KAIZEN</a>
+            <a href="/" class="text-2xl font-bold bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-amber-400  via-red-600 to-slate-800 bg-clip-text text-transparent">
+                ZEIDA KAIZEN
+            </a>
 
             <!-- Navigation Links -->
             <ul class="hidden md:flex space-x-6 text-gray-300 font-medium">
